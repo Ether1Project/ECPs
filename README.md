@@ -1,14 +1,15 @@
-This repo will hold all Ether-1 Community Proposals going forward.
+This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward.
 
-#### ECP flow.
+#### ECP Workflow
 
-1. Create an issue in this repository - it will automatically be assigned an issue number.
-2. The ECP is added to the table below.
-3. Discussion is held around ECP. 
-4. If the ECP is approved it will be marked as approved as well as carried out/executed, if changes are requested OP will need to the original ECP with requested changes. If the ECP is denied, the issue will be closed and locked.
+1. Create an issue in this repository - it will be assigned the next available issue number.
+2. The ECP is added to the table below by the submitter using the established format.
+3. Discussion is held around ECP as indicated within the ECP
+5. If the ECP is approved, it will be marked as approved as well as carried out/executed; if changes are requested OP will need to modify the original ECP with requested changes. If the ECP is denied, the issue will be closed and locked. 
 
-IF an approved ECP requires code - the PR/Commit should reference the ECP issue in the commit message.
+*If an approved ECP requires code - the PR/Commit should reference the ECP issue in the commit message.*
+**All ECPs requiring funding will have the tx numbers listed in the ECP for accountability purposes.**
 
-| ECP Number | ECP Submitter  | Status  |
-| :---:   | :-: | :-: |
-|  |  |  |
+| **ECP Number** | **ECP Submitter**  | **Status**  |  **Result**  |
+| ECP-1 | @pistol22cal | Closed | Approved (7-0) |
+| ECP-2 | @pistol22cal | Open - Discussion | N/A |
