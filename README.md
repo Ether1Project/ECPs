@@ -11,6 +11,6 @@ This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward
 **All ECPs requiring funding will have the tx numbers listed in the ECP for accountability purposes.**
 
 | **ECP Number** | **ECP Submitter**  | **Status**  |  **Result**  |
-| :-: | :-: | :-: |
+| :---: | :-: | :-: |
 | ECP-1 | @pistol22cal | Closed | Approved (7-0) |
 | ECP-2 | @pistol22cal | Open - Discussion | N/A |
