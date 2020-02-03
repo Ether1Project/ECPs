@@ -1,0 +1,29 @@
+<footer class="bg-black ph3 pv4 white">
+
+	<div class="center" style="margin-right: auto; margin-left: auto;">
+
+		<div style="margin-right: auto; margin-left: auto; text-align: center;">
+
+			<div>
+				<h3 class="f4 b lh-title mb1 primary">Ether-1</h3>
+				<ul class="mb3">
+					<li><a href="https://ether1.org" class="link">Ether-1 Website</a></li>
+					<li><a href="/" class="link">Home</a></li>
+					<li><a href="/post" class="link">ECPs</a></li>
+				</ul>
+				<h3 class="f4 b lh-title mb2 primary">Social media</h3>
+				<ul class="mhn2">
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-facebook") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-twitter") }}
+					{{ partial "social-icon" (dict "link" "#" "svg" "icons-instagram") }}
+				</ul>
+			</div>
+
+		</div>
+	</div>
+
+</footer>
+
+{{ partial "svg" . }}
+
+<script src="/app.js"></script>
