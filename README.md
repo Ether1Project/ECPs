@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c8f965e7-e58d-41ba-927e-3766f7b8dfaf/deploy-status)](https://app.netlify.com/sites/vigorous-spence-843912/deploys)
+
 This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward.
 
 ---
