@@ -22,7 +22,8 @@ This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward
 | **ECP Number** | **ECP Submitter** | **Status** | **Result** |
 |---|---|---|---|
 | [ECP-1: Distribution of Development Funds](https://github.com/Ether1Project/ECPs/issues/11) | [pistol22cal](https://github.com/pistol22cal) | Closed | Approved (7-0) |
-| [ECP-2: Council should have Moderator Powers on Ether-1 Discord](https://github.com/Ether1Project/ECPs/issues/12) | [pistol22cal](https://github.com/pistol22cal) | Open-Discussion | N/A |
+| [ECP-2: Council should have Moderator Powers on Ether-1 Discord](https://github.com/Ether1Project/ECPs/issues/12) | [pistol22cal](https://github.com/pistol22cal) | Approved (6-0; 1 Discord) | N/A |
+| [ECP-3: Twitter Awareness Ad](https://github.com/Ether1Project/ECPs/issues/15) | [pistol22cal](https://github.com/pistol22cal) | Open-Discussion | N/A |
 
 ---
 
