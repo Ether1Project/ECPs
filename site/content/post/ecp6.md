@@ -1,9 +1,14 @@
 ECP Originator: CableGod
+
 ECP Sponsor: CableGod
+
 ECP Motivation: Create a new development team to focus on dApp development and external services for Ether-1.
+
 ECP Summary: Rework EthoLab's to help build a team of Ether-a developers to work on dApps / services for Ether-1. 
 
+
 Discussion: 13 Feb. 2020 00:01 UTC to 20 Feb. 2020 00:01 UTC
+
 Voting: 13 Feb. 2020 00:01 UTC to 20 Feb. 2020 00:01 UTC
 
 Details:
