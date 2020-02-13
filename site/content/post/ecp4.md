@@ -1,4 +1,4 @@
-title: (Open) ECP-4, Salaries 
+title: (Withdrawn) ECP-4, Salaries 
 date: 2020-02-06T17:32:10.000Z # Change the date and time
 description: >-
   Salary for Fallen Gravity
