@@ -1,5 +1,5 @@
 ---
-title: (Open) ECP-5, Funding ETHOBlack 
+title: (Approved) ECP-5, Funding ETHOBlack 
 date: 2020-02-13T07:30:10.000Z # Change the date and time
 description: >-
   Request to fund ETHOBlack (Core Developers) with 50K ETHO Monthly.
