@@ -2,7 +2,7 @@
 title: (Approved) ECP-6, New EthoLabs Development Enclave
 date: 2020-02-14T00:00:10.000Z # Change the date and time
 description: >-
-Rework EthoLab's to help build a team of Ether-a developers to work on dApps / services for Ether-1.
+               Rework EthoLab's to help build a team of Ether-a developers to work on dApps / services for Ether-1.
 ---
 
 ECP Originator: CableGod
