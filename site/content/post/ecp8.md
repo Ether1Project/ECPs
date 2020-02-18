@@ -1,5 +1,5 @@
 ---
-title: ECP-7, Create a WordPress Plugin for ethoFS
+title: ECP-8, Create a WordPress Plugin for ethoFS
 date: 2020-02-18T00:00:10.000Z # Change the date and time
 description: >-
   Gather resources to develop a WordPress Plugin for ethoFS
