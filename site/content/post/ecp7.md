@@ -2,7 +2,7 @@
 title: (Open) ECP-7, Meetings, Rules, and Regulations for Council
 date: 2020-02-17T00:00:10.000Z # Change the date and time
 description: >-
-Standardize council meeting so they are more effective and have rules/regulations on how the council operates.
+               Standardize council meeting so they are more effective and have rules/regulations on how the council operates.
 ---
 
 ECP Originator: CableGod
