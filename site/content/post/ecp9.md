@@ -7,7 +7,7 @@ description: >-
 
 **ECP Originator:** `@Pistol of $ETHO (ID: 378374529707278347)`
 **ECP Sponsor:** `@Primate of $ETHO (ID: 393479955956367370)`
-**ECP Motivation:** Create team responsible for social media engagement and management 
+**ECP Motivation:** Create team responsible for social media engagement and management
 **ECP Summary:** Setup PistolCrypt team responsible for Discord and other Social Media Management, Community Management and Marketing.
 **Discussion:** 25 Feb. 2020 00:01 UTC to 3 Mar. 2020 00:01 UTC  
 **Voting:** 3 Mar. 2020 00:01 UTC to 10 Mar. 2020 00:01 UTC  
@@ -18,11 +18,11 @@ PistolCrypt members are as follows:
 Member Name | Member Role | Member Payment
 --- | --- | ---
 Pistol | Team Leader | 900
-Theekgb | Mod | Community Developer | 400
+Theekgb | Mod / Community Developer | 400
 OzzyBoganTech | Mod| 100
 Alob | Mod / Ambassador | 300
 Goose | YouTube  | 600
-Hashington | Mod | Ambassador | 300
+Hashington | Mod / Ambassador | 300
 Crypto_Saiyan | Community Manager | 800
 Exlo | Community Developer | 300
 Primate | Documentation Manager | 300
