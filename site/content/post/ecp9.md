@@ -1,5 +1,5 @@
 ---
-title: (Open) ECP-9: Team PistolCrypt Creation
+title: (Open) ECP-9 Team PistolCrypt Creation
 date: 2020-02-25T00:00:10.000Z # Change the date and time
 description: >-
                 Setup PistolCrypt team responsible for Discord and other Social Media Management, Community Management and Marketing.
@@ -7,7 +7,7 @@ description: >-
 
 **ECP Originator:** `@Pistol of $ETHO (ID: 378374529707278347)`
 **ECP Sponsor:** `@Primate of $ETHO (ID: 393479955956367370)`
-**ECP Motivation:** Create a new WordPress plugin & widget for ethoFS  
+**ECP Motivation:** Create team responsible for social media engagement and management 
 **ECP Summary:** Setup PistolCrypt team responsible for Discord and other Social Media Management, Community Management and Marketing.
 **Discussion:** 25 Feb. 2020 00:01 UTC to 3 Mar. 2020 00:01 UTC  
 **Voting:** 3 Mar. 2020 00:01 UTC to 10 Mar. 2020 00:01 UTC  
