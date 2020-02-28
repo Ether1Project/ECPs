@@ -1,5 +1,5 @@
 ---
-title: (Open) ECP-10 Operational Funding Version 1
+title: (Approved) ECP-10 Operational Funding Version 1
 date: 2020-02-25T00:00:10.000Z # Change the date and time
 description: >-
                 Pay for project hardware operational expenses.
