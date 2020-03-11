@@ -1,3 +1,10 @@
+---
+title: (Approved) ECP-10 Ether-1 dApp / Services Portal
+date: 2020-02-26T00:00:10.000Z # Change the date and time
+description: >-
+                Create a dApp Portal to act as a one stop shop for Ether-1 dApps / services. Its would also include an encrypted message system and ethoFS integeration.
+---
+
 ECP-11 - Ether-1 dApp / Services Portal
 ECP Originator: @CableGod | Ether-1 (ID: 140537599604424704)
 ECP Sponsor: @CableGod | Ether-1 (ID: 140537599604424704)
