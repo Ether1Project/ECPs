@@ -1,5 +1,5 @@
 ---
-title: (Open) ECP-9 Team PistolCrypt Creation
+title: (Approved) ECP-9 Team PistolCrypt Creation
 date: 2020-02-25T00:00:10.000Z # Change the date and time
 description: >-
                 Setup PistolCrypt team responsible for Discord and other Social Media Management, Community Management and Marketing.
