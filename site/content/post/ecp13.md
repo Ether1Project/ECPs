@@ -16,7 +16,7 @@ Voting: 19 Jul. 2020 to 26 Jul. 2020
 Details:
 This is a short ECP intended to put simple inactivity metrics for council members so they can be rotated with fresh members as needed to keep the project running smoothly.
 
-An Ether-1 councilperson shall be considered inactive and eligible for a replacement vote if all of the following conditions are true:
-- Councilperson has not signed a funding transaction in the last 3 months
-- Councilperson has not seconded or personally authored an ECP in the last 3 months
-- Councilperson ...
+An Ether-1 councilperson shall be considered inactive and eligible for a replacement vote if 2/3 of the following conditions are true within the last 3 month period:
+- Councilperson has not signed a funding transaction
+- Councilperson has not seconded or personally authored an ECP
+- Councilperson has not been active in Discord or Telegram
