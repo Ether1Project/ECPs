@@ -14,9 +14,11 @@ Discussion: 19 Jul. 2020 to 26 Jul. 2020
 Voting: 19 Jul. 2020 to 26 Jul. 2020
 
 Details:
-This is a short ECP intended to put simple inactivity metrics for council members so they can be rotated with fresh members as needed to keep the project running smoothly.
+This is a short ECP intended to put simple inactivity metrics for council members so they can be rotated with fresh members as needed to keep the project running smoothly. This ECP is intended to be modified in the future when activity standards change with the circumstances and a higher threshold for activity is necessary for the good of the project.
 
 An Ether-1 councilperson shall be considered inactive and eligible for a replacement vote if 2/3 of the following conditions are true within the last 3 month period:
 - Councilperson has not signed a funding transaction
 - Councilperson has not seconded or personally authored an ECP
 - Councilperson has not been active in Discord or Telegram
+
+When the inactivity criteria is met, any active council member has the option of initiating a vote to replace the inactive member(s) with new members. The logistics of the voting process are to follow the latest official rules set forth by the council. After the vote has ended and a new council member or members is/are elected, the ECP fund shall vote in the new member(s) wallets.
