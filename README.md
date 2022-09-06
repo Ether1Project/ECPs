@@ -34,4 +34,4 @@ This repo will hold all offical ETHO Protocol Community Proposals (ECPs) going f
 @Allan
 @Dylie
 @Crypto_Saiyan
-@@Legacytrx
+@Legacytrx
