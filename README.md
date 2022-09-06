@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c8f965e7-e58d-41ba-927e-3766f7b8dfaf/deploy-status)](https://app.netlify.com/sites/vigorous-spence-843912/deploys)
 
-This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward.
+This repo will hold all offical ETHO Protocol Community Proposals (ECPs) going forward.
 
 ---
 
@@ -17,21 +17,21 @@ This repo will hold all offical Ether-1 Community Proposals (ECPs) going forward
 
 ---
 
-### Ether-1 Community Proposals (ECPs):
+### ETHO Protocol Community Proposals (ECPs):
 
 | **ECP Number** | **ECP Submitter** | **Status** | **Result** |
 |---|---|---|---|
 | [ECP-1: Distribution of Development Funds](https://github.com/Ether1Project/ECPs/issues/11) | [pistol22cal](https://github.com/pistol22cal) | Closed | Approved (7-0) |
-| [ECP-2: Council should have Moderator Powers on Ether-1 Discord](https://github.com/Ether1Project/ECPs/issues/12) | [pistol22cal](https://github.com/pistol22cal) | Closed  |  Approved (6-0; 1 Discord) |
+| [ECP-2: Council should have Moderator Powers on ETHO Protocol Discord](https://github.com/Ether1Project/ECPs/issues/12) | [pistol22cal](https://github.com/pistol22cal) | Closed  |  Approved (6-0; 1 Discord) |
 | [ECP-3: Twitter Awareness Ad](https://github.com/Ether1Project/ECPs/issues/15) | [pistol22cal](https://github.com/pistol22cal) | Open-Discussion | N/A |
 
 ---
 
-### Ether-1 Provisional Council Members:
-@Goose-Tech
-@pistol22cal
-@hashratez
-@Bigpiggy01
-@dylie
-@Primate411
-@qbvbsite
+### ETHO Protocol Provisional Council Members:
+@Exlo
+@Pistol
+@HashRatez
+@Allan
+@Dylie
+@Crypto_Saiyan
+@@Legacytrx
